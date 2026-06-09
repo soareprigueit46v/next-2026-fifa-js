@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soareprigueit46v.github.io/next-2026-fifa-js/sitemap.xml
